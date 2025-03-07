@@ -1,13 +1,9 @@
 <div align="center">
     <p>
-        <a href="https://github.com/404NotFoundIndonesia/" target="_blank">
+        <a href="https://github.com/AzizLike29" target="_blank">
             <img src="https://avatars.githubusercontent.com/u/87377917?s=200&v=4" width="200" alt="404NFID Logo">
         </a>
     </p>
-
- [![GitHub Stars](https://img.shields.io/github/stars/404NotFoundIndonesia/laravel-11-sneat-template.svg)](https://github.com/404NotFoundIndonesia/laravel-11-sneat-template/stargazers)
- [![GitHub license](https://img.shields.io/github/license/404NotFoundIndonesia/laravel-11-sneat-template)](https://github.com/404NotFoundIndonesia/laravel-11-sneat-template/blob/main/LICENSE)
- 
 </div>
 
 # Laravel 11 Sneat Template
@@ -106,4 +102,4 @@ You can login with the following account as `owner`:
 
 ## License
 
-__Laravel 11 Sneat Template__ is open-sourced software licensed under the [MIT license](https://github.com/404NotFoundIndonesia/laravel-11-sneat-template?tab=MIT-1-ov-file).
+__Laravel 11 Sneat Template__ is open-sourced software licensed under the [MIT license](https://github.com/AzizLike29/laravel-sneat).
