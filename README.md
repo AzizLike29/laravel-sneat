@@ -6,9 +6,9 @@
     </p>
 </div>
 
-# Laravel 11 Sneat Template
+# Laravel 12 Sneat Template
 
-This is a Laravel 11 template designed to accelerate web application development by integrating the Sneat dashboard template and Laravel Breeze authentication.
+This is a Laravel 12 template designed to accelerate web application development by integrating the Sneat dashboard template and Laravel Breeze authentication.
 
 ## Available Features
 
@@ -102,4 +102,4 @@ You can login with the following account as `owner`:
 
 ## License
 
-__Laravel 11 Sneat Template__ is open-sourced software licensed under the [MIT license](https://github.com/AzizLike29/laravel-sneat).
+__Laravel 12 Sneat Template__ is open-sourced software licensed under the [MIT license](https://github.com/AzizLike29/laravel-sneat).
